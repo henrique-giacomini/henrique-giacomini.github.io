@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "pt-BR"
+title                    : "Corolário de Dados"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "um semanário decorrente dos meus estudos."
 name                     : "Henrique Giacomini"
 description              : "Um blog sobre métodos numéricos e ciência de dados."
 url                      : "https://henrique-giacomini.github.io"
