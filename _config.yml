@@ -20,10 +20,10 @@ title                    : "Corolário de Dados"
 title_separator          : "-"
 subtitle                 : "um semanário mensal."
 name                     : "Henrique Giacomini"
-description              : "Um blog sobre métodos numéricos e ciência de dados."
+description              : "Um blog sobre métodos numéricos, machine learning e ciência de dados em geral."
 url                      : "https://henrique-giacomini.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "henrique-giacomini/henrique-giacomini.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Henrique Giacomini Gomes"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Olá, enquanto curso Engenharia de Materiais persigo uma carreira em *Ciência de Dados*. Nas horas vagas desenvolvo projetos em impressão 3D, toco violão e torço para o Boston Celtics. "
+  bio              : "Ciência de materiais, Dados e basquete são a minha praia!"
   location         : "Lavras, MG."
-  email            :
+  email            : "hggiacomini@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/henrique-giacomini"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -145,6 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -279,3 +280,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
