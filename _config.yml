@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Corolário de Dados"
-title_separator          : "-"
-subtitle                 : "um semanário mensal."
+title                    : "Semanário Mensal."
+title_separator          : #"-"
+subtitle                 : #""
 name                     : "Henrique Giacomini"
 description              : "Um blog sobre métodos numéricos, machine learning e ciência de dados em geral."
 url                      : "https://henrique-giacomini.github.io"
