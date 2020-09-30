@@ -133,11 +133,11 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label: #"Bitbucket"
+      icon: #"fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: # "Instagram"
+      icon: #"fab fa-fw fa-instagram"
       # url:
 
 
@@ -273,8 +273,8 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
-      layout: single
+      values:
+      layout: posts
       author_profile: true
       read_time: true
       comments: # true
