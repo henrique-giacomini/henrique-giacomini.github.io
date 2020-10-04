@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Olá Mundo!
+date: 2020-09-12
 mathjax: true
+categories:
+  - Post
 ---
 
 # Um Blog como registro
